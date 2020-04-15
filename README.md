@@ -102,7 +102,7 @@ allProjects {
 In your app's `build.gradle`
 ```Java
 dependencies {
-  implementation 'com.github.surfsnowpro.settingsannotation:annotation:version'
-  kapt 'com.github.surfsnowpro.settingsannotation:codegen:version'
+  implementation 'com.github.codespring-hub.prefs-generator:annotation:version'
+  kapt 'com.github.codespring-hub.prefs-generator:codegen:version'
 }
 ```
