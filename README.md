@@ -1,5 +1,5 @@
 # Settings Annotation
-[![](https://jitpack.io/v/surfsnowpro/settingsannotation.svg)](https://jitpack.io/#surfsnowpro/settingsannotation)
+[![](https://jitpack.io/v/codespring-hub/prefs-generator.svg)](https://jitpack.io/#codespring-hub/prefs-generator)
 
 Annotation processor and code generator used to create categorized `SharedPreferences` files. Key constants are created for each property as well as the file itself and placed in a companion object.
 
