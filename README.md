@@ -99,6 +99,8 @@ allProjects {
   }
 }
 ```
+[![](https://jitpack.io/v/codespring-hub/prefs-generator.svg)](https://jitpack.io/#codespring-hub/prefs-generator)
+
 In your app's `build.gradle`
 ```Java
 dependencies {
